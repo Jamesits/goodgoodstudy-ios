@@ -237,7 +237,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>六小时之内手机的大部分功能和应用都会被禁用。</string>
+	<string>六小时之内手机的大部分功能和应用都会被禁用。参见：https://github.com/Jamesits/goodgoodstudy-ios</string>
 	<key>PayloadDisplayName</key>
 	<string>好好学习💊*6hr</string>
 	<key>PayloadIdentifier</key>
@@ -249,7 +249,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>45DB86C1-C843-46E7-8F21-86C5822EED12</string>
+	<string>96D3AB0E-DFC8-401D-A12C-64A1555A6CC8</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
